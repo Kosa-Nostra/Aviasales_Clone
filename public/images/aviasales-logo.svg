@@ -1,0 +1,15 @@
+<svg width="120" height="32" viewBox="0 0 120 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <path d="M36.5 5.5H41.5L50 25.5H44.5L42.5 20.5H35L33.2 25.5H28L36.5 5.5ZM41 16.5L38.8 10L36.5 16.5H41Z" fill="white"/>
+    <path d="M51.5 5.5H56.5L61 17L65.5 5.5H70.5L62.5 25.5H59L51.5 5.5Z" fill="white"/>
+    <path d="M72 5.5H77V25.5H72V5.5Z" fill="white"/>
+    <path d="M79.5 5.5H84.5V21.5H93V25.5H79.5V5.5Z" fill="white"/>
+    <path d="M99.5 5.5H104.5V21.5H113V25.5H99.5V5.5Z" fill="white"/>
+    <path d="M114.5 5.5H119.5V25.5H114.5V5.5Z" fill="white"/>
+
+    <!-- Circle with plane logo -->
+    <circle cx="16" cy="16" r="15" fill="white"/>
+    <path d="M16 27C22.0751 27 27 22.0751 27 16C27 9.92487 22.0751 5 16 5C9.92487 5 5 9.92487 5 16C5 22.0751 9.92487 27 16 27Z" fill="white"/>
+    <path d="M22.5 16.5L17 19L13.5 17L7 19.5L10.5 12.5L17 10L20.5 12L27 9.5L22.5 16.5Z" fill="#1C56A1"/>
+  </g>
+</svg>
